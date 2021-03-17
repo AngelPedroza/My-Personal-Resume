@@ -10,9 +10,9 @@
 
 /* Div images */
 .img-size {
-    background-image: url("../img/myPicture.jpeg");
+    background-image: url("../img/my_picture.jpeg");
     background-size: cover;
-    background-position: 0rem;
+    background-position: 26rem;
     width: 20rem;
     height: 20rem !important;
 }
